@@ -1,0 +1,138 @@
+<div class="hero">
+    <div class="hero-content">
+        <h1>302 Villa Drive</h1>
+        <h2>Long Branch, NJ 07740</h2>
+  <!--      <h2>$5,500 / Month</h2>  -->
+        <p>Available immediately</p>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Rental Highlights</h2>
+    <div class="details">
+        <div class="detail-box">
+            <h3>4 Bedrooms 3.5 Bathrooms</h3>
+           <!-- <p>Bedrooms</p> -->
+        </div>
+        <!-- <div class="detail-box">
+            <h3>3.5 Bathrooms</h3> -->
+            <!-- <p>Bathrooms</p> -->
+       
+        <div class="detail-box">
+            <h3>Fully Furnished</p>
+            Annual Rental</h3>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Property Description</h2>
+    <p>
+        Annual rental. Fully Furnished. Ocean Villas Townhome set in private enclave.  Only two blocks to the beach. 
+        Ideally located just minutes to Pier Village, beach, shops, train to NYC, restaurants and more! 
+        This spacious townhome offers 4 bedrooms, 3.5 baths, a private garage and driveway. 
+        Fantastic open layout with a wall of windows offering lots of natural light! This bright unit overlooks a park like setting.
+        Perfect for year-round living. Close to houses of worship.
+    </p>
+<p>
+        Features an updated kitchen with stainless steel appliances,
+        in-unit washer and dryer, central air conditioning, private balcony,
+        and dedicated parking.  
+    </p>
+</div>
+
+
+<div class="section">
+    <h2>Included Amenities</h2>
+    <ul>
+        <li>Fully Furnished 4 bedroom, 3.5 bath</li>
+        <li>Central Air Conditioning</li>
+        <li>In-Unit Washer & Dryer</li>
+        <li>Private garage and driveway</li>
+        <li>Dishwasher</li>
+        <li>Outdoor Patio/Balcony</li>
+        <li>Weber Gas Grill</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Lease Information</h2>
+    <ul>
+     <!--  <li>Monthly Rent: $5,500</li>   -->
+        <li>Lease Term: 12 Months</li>
+        <li>Security Deposit: 1.5 Months Rent</li>
+        <li>Available: immediately</li>
+        <li>No Smoking, No Pets</li>
+        <li>Tenant Pays Utilities (electric, gas, water)</li>
+    </ul>
+</div>
+
+<div class="contact">
+    <h2>Get more details</h2>
+    <p>Contact Property Manager</p>
+    <p>(917) 902-7479</p>
+    <p>Email</p>
+
+    <a class="button" href="mailto:302villadrive@gmail.com?subject=Interested%20in%20302%20Villa%20Drive&body=Hi, I am interested in 302 Villa Drive.  My name is:      %0D%0A My phone # is:    %0D%0A The best time to reach me is: %0D%0A">
+        302villadrive@gmail.com
+    </a>
+</div>
+
+<div class="section">
+    <h2>Photo Gallery</h2>
+    <div class="gallery">
+        <img src="01 updated.jpg" alt="Front"> 
+        <img src="02.webp" alt="Location overhead">
+        <img src="03.webp" alt="Living Room1">
+        <img src="04.webp" alt="Living Room2">
+        <img src="05.webp" alt="Living Room3">
+       <!-- <img src="06.webp" alt="Front Deck"> -->
+        <img src="07.webp" alt="Living Room4">
+        <img src="08.webp" alt="Living Room5">
+        <img src="09.webp" alt="Dining Table">
+        <img src="10.webp" alt="Kitchen1">
+        <img src="11.webp" alt="Kitchen2">
+        <img src="12.webp" alt="Kitchen3">
+        <img src="13.webp" alt="Kitchen4">
+        <img src="14.webp" alt="Back Porch">
+        <img src="15.webp" alt="Gas Grill">
+        <img src="16.webp" alt="Front Hall">
+        <img src="17.webp" alt="Bedroom Downstairs">
+        <img src="18.webp" alt="Bathroom 2">
+        <img src="19.webp" alt="Master Bedroom">
+        <img src="20.webp" alt="Master Bathroom">
+        <img src="21.webp" alt="Bedroom 2">
+        <img src="22.webp" alt="Ensuite Bath downstairs">
+        <img src="23.webp" alt="NYC Skyline">
+        <img src="24.webp" alt="Front Entrance">
+        <img src="25.webp" alt="Front Balcony">
+        <img src="26.webp" alt="Backyard">
+        <img src="27.webp" alt="Overhead view1">
+        <img src="28.webp" alt="Overhead view2">
+        <img src="29.webp" alt="Pier Village">
+
+       <!--
+        <img src="30.webp" alt="Kitchen">
+        <img src="31.webp" alt="Kitchen">
+        <img src="32.webp" alt="Location">
+        <img src="33.webp" alt="Kitchen">  
+        
+        <img src="bedroom.jpg" alt="Bedroom">
+        <img src="bathroom.jpg" alt="Bathroom">
+        <img src="balcony.jpg" alt="Balcony">
+        <img src="building-exterior.jpg" alt="Exterior">
+        -->
+    </div>
+</div>
+
+<div class="contact">
+    <h2>Schedule a Tour</h2>
+    <p>Contact Property Manager</p>
+    <p>(917) 902-7479</p>
+    <p>Email</p>
+    <a class="button" href="mailto:302villadrive@gmail.com?subject=Interested%20in%20302%20Villa%20Drive&body=Hi, I am interested in 302 Villa Drive.  My name is:      %0D%0A My phone # is:    %0D%0A The best time to reach me is: %0D%0A">
+        302villadrive@gmail.com
+    </a>
+        
+    </a>
+</div>
